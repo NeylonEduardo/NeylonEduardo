@@ -31,7 +31,7 @@ During the day I work at **Douglas George Arquitetos**, where I develop architec
 
 ### 📜 Certifications
 
-- ☁️ **AWS Academy Cloud Foundations** — Amazon Web Services
+- ☁️ **AWS Academy Cloud Foundations** — [Ver certificado](https://www.credly.com/badges/684b0163-32c2-43a6-aa56-5c1b36721b14/print)
 - ☕ **Java Basics Badge** — Oracle
 
 ---
@@ -46,8 +46,8 @@ During the day I work at **Douglas George Arquitetos**, where I develop architec
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NeylonEduardo&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeylonEduardo&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NeylonEduardo&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeylonEduardo&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
