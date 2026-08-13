@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Neylon 👋</h1>
 
-<!--
-**NeylonEduardo/NeylonEduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Java Backend Developer in progress • Betim, MG — Brazil
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+I'm a developer currently focused on building a solid foundation in Java backend development, with the goal of working for international companies.
+
+During the day I work at **Douglas George Arquitetos**, where I develop architectural projects in VR and maintain the company website. Outside of work, I dedicate my time to studying Java and Spring Boot.
+
+- 🎯 Focused on **Java Backend Development**
+- 📚 Currently studying **Spring Boot** on Hyperskill
+- 🌍 Long-term goal: work in **Spain**
+- 🎓 Computer Science student at **Anhanguera University**
+
+---
+
+### 🛠️ Technologies & Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+### 📜 Certifications
+
+- ☁️ **AWS Academy Cloud Foundations** — Amazon Web Services
+- ☕ **Java Basics Badge** — Oracle
+
+---
+
+### 🌐 Languages
+
+- 🇧🇷 Portuguese — Native
+- 🇺🇸 English — Intermediate
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NeylonEduardo&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeylonEduardo&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neylon-eduardo/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neyloneduardo@yahoo.com)
