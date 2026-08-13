@@ -43,12 +43,11 @@ During the day I work at **Douglas George Arquitetos**, where I develop architec
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Currently Working On
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NeylonEduardo&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeylonEduardo&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
+- 📦 Student Management System — Java OOP project
+- 📖 Studying Spring Boot to build REST APIs
+- 🎯 Building my portfolio for backend developer positions
 
 ---
 
