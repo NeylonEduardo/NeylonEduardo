@@ -1,21 +1,21 @@
 <h1 align="center">Hi, I'm Neylon 👋</h1>
 
 <p align="center">
-  Java Backend Developer in progress • Betim, MG — Brazil
+  Aspiring Java Backend Developer • Betim, MG — Brazil
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a developer currently focused on building a solid foundation in Java backend development, with the goal of working for international companies.
+I'm a Computer Science student focused on building a solid foundation in Java backend development, with the long-term goal of working internationally.
 
-During the day I work at **Douglas George Arquitetos**, where I develop architectural projects in VR and maintain the company website. Outside of work, I dedicate my time to studying Java and Spring Boot.
+During the day, I work at <strong>Douglas George Arquitetos</strong>, where I develop architectural VR experiences and maintain the company's website. Outside of work, I dedicate my time to studying Java, Spring Boot, REST APIs, and backend development.
 
-- 🎯 Focused on **Java Backend Development**
-- 📚 Currently studying **Spring Boot** on Hyperskill
-- 🌍 Long-term goal: work in **Spain**
-- 🎓 Computer Science student at **Anhanguera University**
+- 🎯 Focused on <strong>Java Backend Development</strong>
+- 📚 Currently studying <strong>Spring Boot</strong> on Hyperskill
+- 🌍 Long-term goal: work as a developer in <strong>Spain</strong>
+- 🎓 Computer Science student at <strong>Anhanguera University</strong>
 
 ---
 
@@ -31,7 +31,7 @@ During the day I work at **Douglas George Arquitetos**, where I develop architec
 
 ### 📜 Certifications
 
-- ☁️ **AWS Academy Cloud Foundations** — [Ver certificado](https://www.credly.com/badges/684b0163-32c2-43a6-aa56-5c1b36721b14/print)
+- ☁️ **AWS Academy Cloud Foundations** — [View credential](https://www.credly.com/badges/684b0163-32c2-43a6-aa56-5c1b36721b14/print)
 - ☕ **Java Basics Badge** — Oracle
 
 ---
@@ -45,12 +45,20 @@ During the day I work at **Douglas George Arquitetos**, where I develop architec
 
 ### 🚀 Currently Working On
 
-- 📦 Student Management System — Java OOP project
-- 📖 Studying Spring Boot to build REST APIs
-- 🎯 Building my portfolio for backend developer positions
+- 📦 Developing a Student Management System using Java and OOP
+- 📖 Studying Spring Boot and REST API development
+- 🧠 Practicing problem-solving and algorithms on LeetCode
+- 🎯 Building a portfolio for Java backend developer positions
 
-## 🧠 LeetCode
-[![LeetCode Stats](https://leetcard.jacoblin.cool/rabittos?theme=dark&font=Roboto&ext=heatmap)](https://leetcode.com/u/rabittos/)
+---
+
+### 🧠 LeetCode Progress
+
+<p align="center">
+  <a href="https://leetcode.com/u/rabittos/">
+    <img src="https://leetcard.jacoblin.cool/rabittos?theme=dark&font=Roboto&ext=heatmap" alt="Neylon's LeetCode statistics"/>
+  </a>
+</p>
 
 ---
 
