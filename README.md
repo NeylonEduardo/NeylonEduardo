@@ -49,6 +49,9 @@ During the day I work at **Douglas George Arquitetos**, where I develop architec
 - 📖 Studying Spring Boot to build REST APIs
 - 🎯 Building my portfolio for backend developer positions
 
+## 🧠 LeetCode
+[![LeetCode Stats](https://leetcard.jacoblin.cool/rabittos?theme=dark&font=Roboto&ext=heatmap)](https://leetcode.com/u/rabittos/)
+
 ---
 
 ### 📫 Contact
