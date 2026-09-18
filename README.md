@@ -31,6 +31,7 @@ During the day, I work at <strong>Douglas George Arquitetos</strong>, where I de
 
 ### 📜 Certifications
 
+- 💳 **Itaú – Java with Artificial Intelligence** — [View credential](https://hermes.dio.me/certificates/8XDVRZCI.pdf)
 - ☁️ **AWS Academy Cloud Foundations** — [View credential](https://www.credly.com/badges/684b0163-32c2-43a6-aa56-5c1b36721b14/print)
 - ☕ **Java Basics Badge** — Oracle
 
