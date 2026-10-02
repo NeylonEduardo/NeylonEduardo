@@ -1,69 +1,56 @@
-<h1 align="center">Hi, I'm Neylon 👋</h1>
+# Hi, I'm Neylon Eduardo 👋
 
-<p align="center">
-  Aspiring Java Backend Developer • Betim, MG — Brazil
-</p>
+Computer Science student focused on Java and backend development.
 
----
+I am building REST APIs with Spring Boot while strengthening my knowledge of object-oriented programming, SQL, automated testing and software development fundamentals.
 
-### 👨‍💻 About Me
+## About me
 
-I'm a Computer Science student focused on building a solid foundation in Java backend development, with the long-term goal of working internationally.
+- 🎓 Computer Science undergraduate
+- ☕ Focused on Java and Spring Boot
+- 🗄️ Learning backend development with relational databases
+- 🐳 Using Docker to configure local development environments
+- 🧪 Practicing automated testing and continuous integration
+- 📍 Based in Minas Gerais, Brazil
+- 💼 Looking for my first opportunity in software development
 
-During the day, I work at <strong>Douglas George Arquitetos</strong>, where I develop architectural VR experiences and maintain the company's website. Outside of work, I dedicate my time to studying Java, Spring Boot, REST APIs, and backend development.
+## Technologies
 
-- 🎯 Focused on <strong>Java Backend Development</strong>
-- 📚 Currently studying <strong>Spring Boot</strong> on Hyperskill
-- 🌍 Long-term goal: work as a developer in <strong>Spain</strong>
-- 🎓 Computer Science student at <strong>Anhanguera University</strong>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
+## Featured project
 
-### 🛠️ Technologies & Tools
+### [Restaurant API](https://github.com/NeylonEduardo/restaurant-api-spring-boot)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+REST API for restaurant food management developed with Java and Spring Boot.
 
----
+Main concepts and technologies:
 
-### 📜 Certifications
+- REST endpoints
+- Spring Data JPA
+- MySQL and Docker
+- DTOs and data validation
+- Custom exception handling
+- Automated integration tests
+- Continuous integration with GitHub Actions
 
-- 💳 **Itaú – Java with Artificial Intelligence** — [View credential](https://hermes.dio.me/certificates/8XDVRZCI.pdf)
-- ☁️ **AWS Academy Cloud Foundations** — [View credential](https://www.credly.com/badges/684b0163-32c2-43a6-aa56-5c1b36721b14/print)
-- ☕ **Java Basics Badge** — Oracle
+## Currently learning
 
----
+- Java and object-oriented programming
+- Spring Boot and Spring Data JPA
+- SQL and relational database fundamentals
+- Automated testing
+- Data structures and algorithms
 
-### 🌐 Languages
+## Contact
 
-- 🇧🇷 Portuguese — Native
-- 🇺🇸 English — Intermediate
-
----
-
-### 🚀 Currently Working On
-
-- 📦 Developing a Student Management System using Java and OOP
-- 📖 Studying Spring Boot and REST API development
-- 🧠 Practicing problem-solving and algorithms on LeetCode
-- 🎯 Building a portfolio for Java backend developer positions
-
----
-
-### 🧠 LeetCode Progress
-
-<p align="center">
-  <a href="https://leetcode.com/u/rabittos/">
-    <img src="https://leetcard.jacoblin.cool/rabittos?theme=dark&font=Roboto&ext=heatmap" alt="Neylon's LeetCode statistics"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neylon_Eduardo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neylon-eduardo/)
 
 ---
 
-### 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neylon-eduardo/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neyloneduardo@yahoo.com)
+Consistent progress, one project at a time.
