@@ -23,20 +23,27 @@ I am building REST APIs with Spring Boot while strengthening my knowledge of obj
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Featured project
+## Featured projects
+
+### [Finance Tracker API](https://github.com/NeylonEduardo/finance-tracker-api)
+
+REST API for managing accounts, categories, and financial transactions.
+
+- Spring Data JPA and MySQL
+- Docker Compose and environment-based configuration
+- Account/category/transaction relationships with foreign keys
+- Business validation for income and expense categories
+- Pagination and ordering
+- DTOs, centralized exception handling, and automated API tests
 
 ### [Restaurant API](https://github.com/NeylonEduardo/restaurant-api-spring-boot)
 
-REST API for restaurant food management developed with Java and Spring Boot.
+REST API for restaurant food management.
 
-Main concepts and technologies:
-
-- REST endpoints
-- Spring Data JPA
-- MySQL and Docker
-- DTOs and data validation
-- Custom exception handling
-- Automated integration tests
+- Spring Data JPA, MySQL, and Docker
+- Food-category relationship with a foreign key
+- DTOs, validation, and custom exception handling
+- Integration tests with JUnit, MockMvc, and H2
 - Continuous integration with GitHub Actions
 
 ## Currently learning
